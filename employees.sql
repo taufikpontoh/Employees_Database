@@ -1,8 +1,9 @@
 --  Sample employee database 
 --  See changelog table for details
---  Copyright (C) 2007,2008, MySQL AB
+--  Copyright (C) 2019 MySQL AB
 --  
 --  Original data created by Fusheng Wang and Carlo Zaniolo
+--  Rewrite by Taufik Pontoh
 --  http://www.cs.aau.dk/TimeCenter/software.htm
 --  http://www.cs.aau.dk/TimeCenter/Data/employeeTemporalDataSet.zip
 -- 
